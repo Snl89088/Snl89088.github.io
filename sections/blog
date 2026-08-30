@@ -1,0 +1,15 @@
+<section class="section" id="blog" aria-labelledby="blog-title">
+  <div class="container">
+    <div class="section-header-row reveal">
+      <div>
+        <span class="eyebrow">10 — Latest Articles</span>
+        <h2 class="section-title" id="blog-title">Field notes from the hydrogen frontier.</h2>
+        <p class="section-subtitle">Technical articles, perspectives, and explainers on the science and engineering of green hydrogen.</p>
+      </div>
+      <a href="#" class="btn btn-outline btn-sm">All articles →</a>
+    </div>
+    <div class="blog-grid">
+      <!-- Copy the 3 blog-card articles exactly from your original file -->
+    </div>
+  </div>
+</section>
