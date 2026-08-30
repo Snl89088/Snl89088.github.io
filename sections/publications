@@ -1,0 +1,129 @@
+<section class="section" id="publications" aria-labelledby="pubs-title">
+  <div class="container">
+    <div class="section-header-row reveal">
+      <div>
+        <span class="eyebrow">04 — Publications</span>
+        <h2 class="section-title" id="pubs-title">Peer-reviewed research, cited and built upon.</h2>
+        <p class="section-subtitle">Selected works from over 50 peer-reviewed publications. Full list on Google Scholar, ORCID, and Scopus.</p>
+      </div>
+      <a href="#" class="btn btn-outline btn-sm">Google Scholar →</a>
+    </div>
+
+    <div class="pub-filters reveal" role="tablist" aria-label="Publication filters">
+      <button class="pub-filter active" role="tab" aria-selected="true">All</button>
+      <button class="pub-filter" role="tab" aria-selected="false">Reviews</button>
+      <button class="pub-filter" role="tab" aria-selected="false">Electrocatalysis</button>
+      <button class="pub-filter" role="tab" aria-selected="false">Cell Design</button>
+      <button class="pub-filter" role="tab" aria-selected="false">Systems</button>
+      <button class="pub-filter" role="tab" aria-selected="false">Durability</button>
+    </div>
+
+    <div class="pub-grid">
+      <article class="pub-card reveal" itemscope itemtype="https://schema.org/ScholarlyArticle">
+        <div class="pub-card-meta">
+          <span class="pub-card-journal" itemprop="publisher">Nature Energy</span>
+          <span class="pub-card-year" itemprop="datePublished">2024</span>
+        </div>
+        <h3 itemprop="headline">Zero-gap alkaline electrolysers operating above 1.5 A cm⁻²: a combined experimental and multi-physics modeling study</h3>
+        <p class="pub-card-authors" itemprop="author">Sethy, S. K., Reinhardt, J., Bianchi, M., Okonkwo, P., Lindqvist, K. &amp; Vogt, U.</p>
+        <p class="pub-card-doi" itemprop="identifier">DOI: 10.1038/s41560-024-01488-w</p>
+        <div class="pub-card-footer">
+          <span class="pub-card-cites"><strong>87</strong> citations</span>
+          <div class="pub-card-actions">
+            <a href="#" class="pub-card-link">Abstract</a>
+            <a href="#" class="pub-card-link">PDF ↓</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="pub-card reveal" itemscope itemtype="https://schema.org/ScholarlyArticle">
+        <div class="pub-card-meta">
+          <span class="pub-card-journal" itemprop="publisher">Joule</span>
+          <span class="pub-card-year" itemprop="datePublished">2023</span>
+        </div>
+        <h3 itemprop="headline">Physics-informed machine learning for lifetime prediction of industrial electrolyser stacks under variable renewable input</h3>
+        <p class="pub-card-authors" itemprop="author">Sethy, S. K., Chen, L., Reinhardt, J. &amp; Durst, M.</p>
+        <p class="pub-card-doi" itemprop="identifier">DOI: 10.1016/j.joule.2023.05.002</p>
+        <div class="pub-card-footer">
+          <span class="pub-card-cites"><strong>142</strong> citations</span>
+          <div class="pub-card-actions">
+            <a href="#" class="pub-card-link">Abstract</a>
+            <a href="#" class="pub-card-link">PDF ↓</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="pub-card reveal" itemscope itemtype="https://schema.org/ScholarlyArticle">
+        <div class="pub-card-meta">
+          <span class="pub-card-journal" itemprop="publisher">Int. J. Hydrogen Energy</span>
+          <span class="pub-card-year" itemprop="datePublished">2023</span>
+        </div>
+        <h3 itemprop="headline">Nickel-molybdenum electrocatalysts deposited on structured nickel foam for industrial hydrogen evolution: synthesis, kinetics, and 10,000 h stability</h3>
+        <p class="pub-card-authors" itemprop="author">Okonkwo, P., Sethy, S. K., Bianchi, M. &amp; Vogt, U.</p>
+        <p class="pub-card-doi" itemprop="identifier">DOI: 10.1016/j.ijhydene.2022.11.220</p>
+        <div class="pub-card-footer">
+          <span class="pub-card-cites"><strong>63</strong> citations</span>
+          <div class="pub-card-actions">
+            <a href="#" class="pub-card-link">Abstract</a>
+            <a href="#" class="pub-card-link">PDF ↓</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="pub-card reveal" itemscope itemtype="https://schema.org/ScholarlyArticle">
+        <div class="pub-card-meta">
+          <span class="pub-card-journal" itemprop="publisher">Energy &amp; Environ. Science</span>
+          <span class="pub-card-year" itemprop="datePublished">2022</span>
+        </div>
+        <h3 itemprop="headline">Techno-economic limits of green hydrogen: a system-level analysis of 47 reference plants across Europe</h3>
+        <p class="pub-card-authors" itemprop="author">Sethy, S. K., Lindqvist, K. &amp; Durst, M.</p>
+        <p class="pub-card-doi" itemprop="identifier">DOI: 10.1039/d2ee01568a</p>
+        <div class="pub-card-footer">
+          <span class="pub-card-cites"><strong>218</strong> citations</span>
+          <div class="pub-card-actions">
+            <a href="#" class="pub-card-link">Abstract</a>
+            <a href="#" class="pub-card-link">PDF ↓</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="pub-card reveal" itemscope itemtype="https://schema.org/ScholarlyArticle">
+        <div class="pub-card-meta">
+          <span class="pub-card-journal" itemprop="publisher">Adv. Energy Materials</span>
+          <span class="pub-card-year" itemprop="datePublished">2022</span>
+        </div>
+        <h3 itemprop="headline">Co-Fe layered double hydroxides on nickel foam for oxygen evolution: active site identification via operando XAS</h3>
+        <p class="pub-card-authors" itemprop="author">Bianchi, M., Sethy, S. K., Reinhardt, J. &amp; Vogt, U.</p>
+        <p class="pub-card-doi" itemprop="identifier">DOI: 10.1002/aenm.202201356</p>
+        <div class="pub-card-footer">
+          <span class="pub-card-cites"><strong>96</strong> citations</span>
+          <div class="pub-card-actions">
+            <a href="#" class="pub-card-link">Abstract</a>
+            <a href="#" class="pub-card-link">PDF ↓</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="pub-card reveal" itemscope itemtype="https://schema.org/ScholarlyArticle">
+        <div class="pub-card-meta">
+          <span class="pub-card-journal" itemprop="publisher">Chem. Eng. Journal</span>
+          <span class="pub-card-year" itemprop="datePublished">2021</span>
+        </div>
+        <h3 itemprop="headline">Dynamic operation of alkaline electrolyser stacks: experimental response to photovoltaic-derived load profiles</h3>
+        <p class="pub-card-authors" itemprop="author">Sethy, S. K. &amp; Reinhardt, J.</p>
+        <p class="pub-card-doi" itemprop="identifier">DOI: 10.1016/j.cej.2021.131456</p>
+        <div class="pub-card-footer">
+          <span class="pub-card-cites"><strong>174</strong> citations</span>
+          <div class="pub-card-actions">
+            <a href="#" class="pub-card-link">Abstract</a>
+            <a href="#" class="pub-card-link">PDF ↓</a>
+          </div>
+        </div>
+      </article>
+    </div>
+
+    <div style="text-align: center; margin-top: 40px;" class="reveal">
+      <a href="#" class="btn btn-outline">View all 52 publications</a>
+    </div>
+  </div>
+</section>
