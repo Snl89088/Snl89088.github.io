@@ -1,0 +1,20 @@
+<section class="section section-alt" id="patents" aria-labelledby="patents-title">
+  <div class="container">
+    <div class="section-header-row reveal">
+      <div>
+        <span class="eyebrow">05 — Patents</span>
+        <h2 class="section-title" id="patents-title">Protected inventions, commercialized.</h2>
+        <p class="section-subtitle">14 granted patents across 8 jurisdictions. Three patent families licensed to industrial partners.</p>
+      </div>
+      <div style="display: flex; gap: 24px; font-family: var(--font-mono);">
+        <div><div style="font-size:28px;font-weight:700;color:var(--green);">14</div><div style="font-size:11px;color:var(--text-light);">GRANTED</div></div>
+        <div><div style="font-size:28px;font-weight:700;color:var(--hydrogen);">7</div><div style="font-size:11px;color:var(--text-light);">PENDING</div></div>
+        <div><div style="font-size:28px;font-weight:700;color:var(--navy);">3</div><div style="font-size:11px;color:var(--text-light);">LICENSED</div></div>
+      </div>
+    </div>
+
+    <div class="patents-timeline reveal">
+      <!-- Copy the 6 patent-item articles exactly from your original file -->
+    </div>
+  </div>
+</section>
