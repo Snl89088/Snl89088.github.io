@@ -1,0 +1,23 @@
+<section class="section section-alt" id="skills" aria-labelledby="skills-title">
+  <div class="container">
+    <div class="section-header-center reveal">
+      <span class="eyebrow">07 — Technical Skills</span>
+      <h2 class="section-title" id="skills-title">Computational and experimental toolkit.</h2>
+      <p class="section-subtitle">Software, simulation, and engineering tools used across the research workflow — from atomistic modeling to plant integration.</p>
+    </div>
+    
+    <!-- Shared SVG gradient def -->
+    <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+      <defs>
+        <linearGradient id="skillGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#0099FF"/>
+          <stop offset="100%" stop-color="#16C784"/>
+        </linearGradient>
+      </defs>
+    </svg>
+
+    <div class="skills-grid">
+      <!-- Copy the 8 skill-card divs exactly from your original file -->
+    </div>
+  </div>
+</section>
