@@ -1,0 +1,12 @@
+<section class="section" id="awards" aria-labelledby="awards-title">
+  <div class="container">
+    <div class="section-header-center reveal">
+      <span class="eyebrow">08 — Awards &amp; Recognition</span>
+      <h2 class="section-title" id="awards-title">Selected honors and fellowships.</h2>
+      <p class="section-subtitle">Recognition from academic, industrial, and policy institutions across the hydrogen value chain.</p>
+    </div>
+    <div class="awards-list">
+      <!-- Copy the 6 award-card articles exactly from your original file -->
+    </div>
+  </div>
+</section>
