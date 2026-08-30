@@ -1,0 +1,15 @@
+<section class="section section-alt" id="talks" aria-labelledby="talks-title">
+  <div class="container">
+    <div class="section-header-row reveal">
+      <div>
+        <span class="eyebrow">09 — Conference Talks</span>
+        <h2 class="section-title" id="talks-title">Selected invited lectures and keynotes.</h2>
+        <p class="section-subtitle">40+ invited talks at international conferences, universities, and policy forums since 2018.</p>
+      </div>
+      <a href="#" class="btn btn-outline btn-sm">All talks →</a>
+    </div>
+    <div class="talks-grid">
+      <!-- Copy the 6 talk-card articles exactly from your original file -->
+    </div>
+  </div>
+</section>
