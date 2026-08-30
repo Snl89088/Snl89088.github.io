@@ -1,0 +1,12 @@
+<section class="section" id="projects" aria-labelledby="projects-title">
+  <div class="container">
+    <div class="section-header-center reveal">
+      <span class="eyebrow">06 — Industrial Projects</span>
+      <h2 class="section-title" id="projects-title">From lab bench to operating plant.</h2>
+      <p class="section-subtitle">Selected industrial projects where I led cell architecture, stack design, or system integration — each with verifiable outcome.</p>
+    </div>
+    <div class="projects-grid">
+      <!-- Copy the 4 project-card articles exactly from your original file -->
+    </div>
+  </div>
+</section>
