@@ -1,0 +1,15 @@
+<section class="section section-alt" id="media" aria-labelledby="media-title">
+  <div class="container">
+    <div class="section-header-row reveal">
+      <div>
+        <span class="eyebrow">11 — Media &amp; Videos</span>
+        <h2 class="section-title" id="media-title">Talks, interviews, and explainers.</h2>
+        <p class="section-subtitle">Selected media appearances and educational content on hydrogen technology and the energy transition.</p>
+      </div>
+      <a href="#" class="btn btn-outline btn-sm">YouTube channel →</a>
+    </div>
+    <div class="media-grid">
+      <!-- Copy the media-featured and media-list items exactly from your original file -->
+    </div>
+  </div>
+</section>
